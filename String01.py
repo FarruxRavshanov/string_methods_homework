@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
     a = s.islower()
-    return a
+    if a == True:
+        d = True
+    return d
