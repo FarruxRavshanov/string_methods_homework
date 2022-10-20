@@ -7,6 +7,6 @@ def main(s):
         str: answer
     """
     a = s.islower()
-    if a == True:
-        d = True
-    return d
+    return a
+
+print(main('swd ejjd ee'))
