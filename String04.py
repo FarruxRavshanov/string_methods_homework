@@ -6,5 +6,5 @@ def main(s):
     Returns:
         bool: answer
     """
-    a = s.lower()
+    a = s.islower()
     return a
