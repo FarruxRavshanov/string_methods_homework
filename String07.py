@@ -6,5 +6,5 @@ def main(s):
     Returns:
         bool: answer
     """
-    a = s.isletter()
+    a = s.isalpha()
     return a
