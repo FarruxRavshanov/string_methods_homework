@@ -6,5 +6,5 @@ def main(s):
     Returns:
         str: answer
     """
-    a = s.finxd('')
+    a = s.finxd('x')
     return a
