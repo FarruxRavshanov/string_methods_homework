@@ -6,7 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    a = s.islower()
+    a = s.title()
     return a
 
-print(main('swd ejjd ee'))
+print(main('seni isming jumaboy'))
