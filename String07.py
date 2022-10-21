@@ -6,5 +6,5 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    a = s.isletter()
+    return a
