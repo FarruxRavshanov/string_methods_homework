@@ -6,5 +6,5 @@ def main(s):
     Returns:
         int: answer
     """
-    a = s.find('a')
+    a = s.count('a')
     return a
